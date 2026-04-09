@@ -1,10 +1,10 @@
-# Evaluación de Recuperación: Programación Python I
+# Evaluación: Programación Python
 
 ## Información General
-- **Materia:** Programación Metodología / Python Essentials 1
+- **Materia:** Programación Metodología / Python Essentials 2
 - **Temas:** Listas, Sets, Bucles (Loops) y Funciones.
 - **Fuente de ejercicios:** [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) (Días 5, 7, 10 y 11).
-- **Duración:** 40 Minutos.
+- **Duración:** 50 Minutos.
 
 ## Instrucciones para el Estudiante
 1. El archivo proporcionado contiene una estructura de menú basada en la variable `problema`.
